@@ -1,0 +1,28 @@
+{
+  "name": "namastereact",
+  "version": "1.0.0",
+  "description": "\"This is a dummy description for now\"",
+  "main": "App.js",
+  "scripts": {
+    "start": "npx parcel session-2/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DebasishPati14/NamasteReact.git"
+  },
+  "author": "Mr. Deba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DebasishPati14/NamasteReact/issues"
+  },
+  "homepage": "https://github.com/DebasishPati14/NamasteReact#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
